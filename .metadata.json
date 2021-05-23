@@ -1,0 +1,14 @@
+[
+  {
+    "package": "josaplay",
+    "oncran": true
+  },
+  {
+    "package": "multilinguer",
+    "oncran": true
+  },
+  {
+    "package": "sendgridr",
+    "oncran": true
+  }
+]

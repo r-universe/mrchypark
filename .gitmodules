@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "josaplay"]
+	path = josaplay
+	url = https://github.com/mrchypark/josaplay
+	shallow = true
+	registered = true
+[submodule "multilinguer"]
+	path = multilinguer
+	url = https://github.com/mrchypark/multilinguer
+	shallow = true
+	registered = true
+[submodule "sendgridr"]
+	path = sendgridr
+	url = https://github.com/mrchypark/sendgridr
+	shallow = true
+	registered = true
