@@ -1,14 +1,16 @@
 [
   {
+    "package": "sendgridr",
+    "oncran": true
+  },
+  {
+    "package": "elbird"
+  },
+  {
     "package": "josaplay",
     "oncran": true
   },
   {
-    "package": "multilinguer",
-    "oncran": true
-  },
-  {
-    "package": "sendgridr",
-    "oncran": true
+    "package": "multilinguer"
   }
 ]
