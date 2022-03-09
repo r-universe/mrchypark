@@ -11,6 +11,7 @@
     "oncran": true
   },
   {
-    "package": "multilinguer"
+    "package": "multilinguer",
+    "oncran": false
   }
 ]
