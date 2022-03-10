@@ -12,6 +12,6 @@
   },
   {
     "package": "multilinguer",
-    "oncran": false
+    "oncran": true
   }
 ]
