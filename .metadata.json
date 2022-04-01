@@ -5,7 +5,7 @@
   },
   {
     "package": "elbird",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "josaplay",
