@@ -14,5 +14,8 @@
   {
     "package": "multilinguer",
     "oncran": true
+  },
+  {
+    "package": "stdictapi"
   }
 ]

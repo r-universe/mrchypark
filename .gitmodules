@@ -23,3 +23,8 @@
 	url = https://github.com/mrchypark/multilinguer
 	shallow = true
 	registered = true
+[submodule "stdictapi"]
+	path = stdictapi
+	url = https://github.com/mrchypark/stdictapi
+	shallow = true
+	registered = true
