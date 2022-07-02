@@ -28,3 +28,8 @@
 	url = https://github.com/mrchypark/stdictkr
 	shallow = true
 	registered = true
+[submodule "tqk"]
+	path = tqk
+	url = https://github.com/mrchypark/tqk
+	shallow = true
+	registered = true
