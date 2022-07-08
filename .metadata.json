@@ -20,5 +20,8 @@
   },
   {
     "package": "tqk"
+  },
+  {
+    "package": "rgotest"
   }
 ]
