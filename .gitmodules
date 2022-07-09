@@ -33,8 +33,8 @@
 	url = https://github.com/mrchypark/tqk
 	shallow = true
 	registered = true
-[submodule "rgotest"]
-	path = rgotest
+[submodule "wordcount"]
+	path = wordcount
 	url = https://github.com/mrchypark/rgotest
 	shallow = true
 	registered = true
