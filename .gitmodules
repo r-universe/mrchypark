@@ -1,40 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/mrchypark/universe
-	shallow = true
 	branch = HEAD
 [submodule "sendgridr"]
 	path = sendgridr
 	url = https://github.com/mrchypark/sendgridr
-	shallow = true
-	registered = true
 [submodule "elbird"]
 	path = elbird
 	url = https://github.com/mrchypark/elbird
-	shallow = true
-	registered = true
 [submodule "josaplay"]
 	path = josaplay
 	url = https://github.com/mrchypark/josaplay
-	shallow = true
-	registered = true
 [submodule "multilinguer"]
 	path = multilinguer
 	url = https://github.com/mrchypark/multilinguer
-	shallow = true
-	registered = true
 [submodule "stdictkr"]
 	path = stdictkr
 	url = https://github.com/mrchypark/stdictkr
-	shallow = true
-	registered = true
 [submodule "tqk"]
 	path = tqk
 	url = https://github.com/mrchypark/tqk
-	shallow = true
-	registered = true
 [submodule "theeuh"]
 	path = theeuh
 	url = https://github.com/mrchypark/theeuh
-	shallow = true
-	registered = true
+[submodule "churon"]
+	path = churon
+	url = https://github.com/mrchypark/churon
