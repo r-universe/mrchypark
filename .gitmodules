@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/mrchypark/universe
 	branch = HEAD
-[submodule "sendgridr"]
-	path = sendgridr
-	url = https://github.com/mrchypark/sendgridr
+[submodule "churon"]
+	path = churon
+	url = https://github.com/mrchypark/churon
 [submodule "elbird"]
 	path = elbird
 	url = https://github.com/mrchypark/elbird
@@ -14,15 +14,15 @@
 [submodule "multilinguer"]
 	path = multilinguer
 	url = https://github.com/mrchypark/multilinguer
+[submodule "sendgridr"]
+	path = sendgridr
+	url = https://github.com/mrchypark/sendgridr
 [submodule "stdictkr"]
 	path = stdictkr
 	url = https://github.com/mrchypark/stdictkr
-[submodule "tqk"]
-	path = tqk
-	url = https://github.com/mrchypark/tqk
 [submodule "theeuh"]
 	path = theeuh
 	url = https://github.com/mrchypark/theeuh
-[submodule "churon"]
-	path = churon
-	url = https://github.com/mrchypark/churon
+[submodule "tqk"]
+	path = tqk
+	url = https://github.com/mrchypark/tqk
