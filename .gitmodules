@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/mrchypark/universe
+	url = https://github.com/mrchypark/mrchypark.r-universe.dev
 	branch = HEAD
 [submodule "churon"]
 	path = churon
