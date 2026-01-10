@@ -23,6 +23,10 @@
 [submodule "theeuh"]
 	path = theeuh
 	url = https://github.com/mrchypark/theeuh
+[submodule "torch"]
+	path = torch
+	url = https://github.com/mlverse/torch
+	registered = false
 [submodule "tqk"]
 	path = tqk
 	url = https://github.com/mrchypark/tqk
